@@ -1,0 +1,5302 @@
+{
+    "0": {
+        "current": [
+            0,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                1,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "1": {
+        "current": [
+            1,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                1,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "2": {
+        "current": [
+            2,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                2,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "3": {
+        "current": [
+            3,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                3,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "4": {
+        "current": [
+            4,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                4,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "5": {
+        "current": [
+            5,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                5,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "6": {
+        "current": [
+            6,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                6,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "7": {
+        "current": [
+            7,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                7,
+                50
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "8": {
+        "current": [
+            8,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                8,
+                50
+            ],
+            "status": "fresh",
+            "distance": 8,
+            "fear": 1.25,
+            "happiness": 16.81792830507429,
+            "safety": 15.69292830507429,
+            "spead_f": 9.341221646165573
+        },
+        "progress": "fresh"
+    },
+    "9": {
+        "current": [
+            9,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                9,
+                50
+            ],
+            "status": "fresh",
+            "distance": 7,
+            "fear": 1.4285714285714286,
+            "happiness": 16.265765616977856,
+            "safety": 14.980051331263569,
+            "spead_f": 8.871013466310645
+        },
+        "progress": "fresh"
+    },
+    "10": {
+        "current": [
+            10,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                10,
+                50
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "11": {
+        "current": [
+            11,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                11,
+                50
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "12": {
+        "current": [
+            12,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                12,
+                50
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "13": {
+        "current": [
+            13,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                13,
+                50
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "14": {
+        "current": [
+            13,
+            49
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                13,
+                49
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "15": {
+        "current": [
+            12,
+            49
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                12,
+                49
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "16": {
+        "current": [
+            13,
+            49
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                13,
+                49
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "17": {
+        "current": [
+            13,
+            48
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                13,
+                48
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "18": {
+        "current": [
+            12,
+            48
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                12,
+                48
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "19": {
+        "current": [
+            13,
+            48
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                13,
+                48
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "20": {
+        "current": [
+            13,
+            47
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                13,
+                47
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "21": {
+        "current": [
+            12,
+            47
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                12,
+                47
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "22": {
+        "current": [
+            13,
+            47
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                13,
+                47
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "23": {
+        "current": [
+            13,
+            46
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                13,
+                46
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "24": {
+        "current": [
+            12,
+            46
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                12,
+                46
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "25": {
+        "current": [
+            13,
+            46
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                13,
+                46
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "26": {
+        "current": [
+            13,
+            45
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                13,
+                45
+            ],
+            "status": "fresh",
+            "distance": 2,
+            "fear": 5.0,
+            "happiness": 11.89207115002721,
+            "safety": 7.39207115002721,
+            "spead_f": 6.056563630476368
+        },
+        "progress": "fresh"
+    },
+    "27": {
+        "current": [
+            12,
+            45
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                12,
+                45
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "28": {
+        "current": [
+            13,
+            45
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                13,
+                45
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "29": {
+        "current": [
+            14,
+            45
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                14,
+                45
+            ],
+            "status": "fresh",
+            "distance": 2,
+            "fear": 5.0,
+            "happiness": 11.89207115002721,
+            "safety": 7.39207115002721,
+            "spead_f": 6.056563630476368
+        },
+        "progress": "fresh"
+    },
+    "30": {
+        "current": [
+            14,
+            44
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                14,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "31": {
+        "current": [
+            15,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                15,
+                44
+            ],
+            "status": "fresh",
+            "distance": 8,
+            "fear": 1.25,
+            "happiness": 16.81792830507429,
+            "safety": 15.69292830507429,
+            "spead_f": 9.341221646165573
+        },
+        "progress": "fresh"
+    },
+    "32": {
+        "current": [
+            16,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                16,
+                44
+            ],
+            "status": "fresh",
+            "distance": 7,
+            "fear": 1.4285714285714286,
+            "happiness": 16.265765616977856,
+            "safety": 14.980051331263569,
+            "spead_f": 8.871013466310645
+        },
+        "progress": "fresh"
+    },
+    "33": {
+        "current": [
+            17,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                17,
+                44
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "34": {
+        "current": [
+            18,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                18,
+                44
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "35": {
+        "current": [
+            19,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                19,
+                44
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "36": {
+        "current": [
+            20,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                20,
+                44
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "37": {
+        "current": [
+            20,
+            43
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                20,
+                43
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "38": {
+        "current": [
+            20,
+            42
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                20,
+                42
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "39": {
+        "current": [
+            20,
+            41
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                20,
+                41
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "40": {
+        "current": [
+            21,
+            41
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                21,
+                41
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "41": {
+        "current": [
+            22,
+            41
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                22,
+                41
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "42": {
+        "current": [
+            23,
+            41
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                23,
+                41
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "43": {
+        "current": [
+            24,
+            41
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                24,
+                41
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "44": {
+        "current": [
+            24,
+            42
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                24,
+                42
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "45": {
+        "current": [
+            24,
+            43
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                24,
+                43
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "46": {
+        "current": [
+            24,
+            44
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                24,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "47": {
+        "current": [
+            24,
+            45
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                24,
+                45
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "48": {
+        "current": [
+            24,
+            46
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                24,
+                46
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "49": {
+        "current": [
+            24,
+            47
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                24,
+                47
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "50": {
+        "current": [
+            24,
+            48
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                24,
+                48
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "51": {
+        "current": [
+            25,
+            48
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                25,
+                48
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "52": {
+        "current": [
+            26,
+            48
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                26,
+                48
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "53": {
+        "current": [
+            27,
+            48
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                27,
+                48
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "54": {
+        "current": [
+            28,
+            48
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                28,
+                48
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "55": {
+        "current": [
+            28,
+            47
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                28,
+                47
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "56": {
+        "current": [
+            28,
+            46
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                28,
+                46
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "57": {
+        "current": [
+            28,
+            45
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                28,
+                45
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "58": {
+        "current": [
+            28,
+            44
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                28,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "59": {
+        "current": [
+            29,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                29,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "60": {
+        "current": [
+            30,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                30,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "61": {
+        "current": [
+            31,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                31,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "62": {
+        "current": [
+            32,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                32,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "63": {
+        "current": [
+            33,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                33,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "64": {
+        "current": [
+            34,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                34,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "65": {
+        "current": [
+            35,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                35,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "66": {
+        "current": [
+            36,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                36,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "67": {
+        "current": [
+            37,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                37,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "68": {
+        "current": [
+            38,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                38,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "69": {
+        "current": [
+            39,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                39,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "70": {
+        "current": [
+            40,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                40,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "71": {
+        "current": [
+            41,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                41,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "72": {
+        "current": [
+            42,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                42,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "73": {
+        "current": [
+            43,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                43,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "74": {
+        "current": [
+            44,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                44,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "75": {
+        "current": [
+            45,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                45,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "76": {
+        "current": [
+            46,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                46,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "77": {
+        "current": [
+            47,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                47,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "78": {
+        "current": [
+            48,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                48,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "79": {
+        "current": [
+            49,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                49,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "80": {
+        "current": [
+            50,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                50,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "81": {
+        "current": [
+            51,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                51,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "82": {
+        "current": [
+            52,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                52,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "83": {
+        "current": [
+            53,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                53,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "84": {
+        "current": [
+            54,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                54,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "85": {
+        "current": [
+            55,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                55,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "86": {
+        "current": [
+            56,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                56,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "87": {
+        "current": [
+            57,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                57,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "88": {
+        "current": [
+            58,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                58,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "89": {
+        "current": [
+            59,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                59,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "90": {
+        "current": [
+            60,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                60,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "91": {
+        "current": [
+            61,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                61,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "92": {
+        "current": [
+            62,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                62,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "93": {
+        "current": [
+            63,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                63,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "94": {
+        "current": [
+            64,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                64,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "95": {
+        "current": [
+            65,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                65,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "96": {
+        "current": [
+            66,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                66,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "97": {
+        "current": [
+            67,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                67,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "98": {
+        "current": [
+            68,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                68,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "99": {
+        "current": [
+            69,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                69,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "100": {
+        "current": [
+            70,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                70,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "101": {
+        "current": [
+            71,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                71,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "102": {
+        "current": [
+            72,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                72,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "103": {
+        "current": [
+            73,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                73,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "104": {
+        "current": [
+            74,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                74,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "105": {
+        "current": [
+            75,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                75,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "106": {
+        "current": [
+            76,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                76,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "107": {
+        "current": [
+            77,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                77,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "108": {
+        "current": [
+            78,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                78,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "109": {
+        "current": [
+            79,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                79,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "110": {
+        "current": [
+            80,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                80,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "111": {
+        "current": [
+            81,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                81,
+                44
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "112": {
+        "current": [
+            82,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                82,
+                44
+            ],
+            "status": "fresh",
+            "distance": 8,
+            "fear": 1.25,
+            "happiness": 16.81792830507429,
+            "safety": 15.69292830507429,
+            "spead_f": 9.341221646165573
+        },
+        "progress": "fresh"
+    },
+    "113": {
+        "current": [
+            83,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                83,
+                44
+            ],
+            "status": "fresh",
+            "distance": 7,
+            "fear": 1.4285714285714286,
+            "happiness": 16.265765616977856,
+            "safety": 14.980051331263569,
+            "spead_f": 8.871013466310645
+        },
+        "progress": "fresh"
+    },
+    "114": {
+        "current": [
+            84,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                84,
+                44
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "115": {
+        "current": [
+            85,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                85,
+                44
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "116": {
+        "current": [
+            86,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                86,
+                44
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "117": {
+        "current": [
+            87,
+            44
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                44
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "118": {
+        "current": [
+            87,
+            43
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                43
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "119": {
+        "current": [
+            86,
+            43
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                43
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "120": {
+        "current": [
+            87,
+            43
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                43
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "121": {
+        "current": [
+            87,
+            42
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                42
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "122": {
+        "current": [
+            86,
+            42
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                42
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "123": {
+        "current": [
+            87,
+            42
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                42
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "124": {
+        "current": [
+            87,
+            41
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                41
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "125": {
+        "current": [
+            86,
+            41
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                41
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "126": {
+        "current": [
+            87,
+            41
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                41
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "127": {
+        "current": [
+            87,
+            40
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                40
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "128": {
+        "current": [
+            86,
+            40
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                40
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "129": {
+        "current": [
+            87,
+            40
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                40
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "130": {
+        "current": [
+            87,
+            39
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                39
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "131": {
+        "current": [
+            86,
+            39
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                39
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "132": {
+        "current": [
+            87,
+            39
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                39
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "133": {
+        "current": [
+            87,
+            38
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                38
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "134": {
+        "current": [
+            86,
+            38
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                38
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "135": {
+        "current": [
+            87,
+            38
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                38
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "136": {
+        "current": [
+            87,
+            37
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                37
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "137": {
+        "current": [
+            86,
+            37
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                37
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "138": {
+        "current": [
+            87,
+            37
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                37
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "139": {
+        "current": [
+            87,
+            36
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                36
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "140": {
+        "current": [
+            86,
+            36
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                36
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "141": {
+        "current": [
+            87,
+            36
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                36
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "142": {
+        "current": [
+            87,
+            35
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                35
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "143": {
+        "current": [
+            86,
+            35
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                86,
+                35
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "144": {
+        "current": [
+            87,
+            35
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                87,
+                35
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "145": {
+        "current": [
+            87,
+            34
+        ],
+        "decision": {
+            "side": "north",
+            "cords": [
+                87,
+                34
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "146": {
+        "current": [
+            88,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                88,
+                34
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "147": {
+        "current": [
+            89,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                89,
+                34
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "148": {
+        "current": [
+            90,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                90,
+                34
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "149": {
+        "current": [
+            91,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                91,
+                34
+            ],
+            "status": "fresh",
+            "distance": 8,
+            "fear": 1.25,
+            "happiness": 16.81792830507429,
+            "safety": 15.69292830507429,
+            "spead_f": 9.341221646165573
+        },
+        "progress": "fresh"
+    },
+    "150": {
+        "current": [
+            92,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                92,
+                34
+            ],
+            "status": "fresh",
+            "distance": 7,
+            "fear": 1.4285714285714286,
+            "happiness": 16.265765616977856,
+            "safety": 14.980051331263569,
+            "spead_f": 8.871013466310645
+        },
+        "progress": "fresh"
+    },
+    "151": {
+        "current": [
+            93,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                93,
+                34
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "152": {
+        "current": [
+            94,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                94,
+                34
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "153": {
+        "current": [
+            95,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                95,
+                34
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "154": {
+        "current": [
+            96,
+            34
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                96,
+                34
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "155": {
+        "current": [
+            96,
+            35
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                96,
+                35
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "156": {
+        "current": [
+            96,
+            36
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                96,
+                36
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "157": {
+        "current": [
+            96,
+            37
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                96,
+                37
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "158": {
+        "current": [
+            96,
+            38
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                96,
+                38
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "159": {
+        "current": [
+            96,
+            39
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                96,
+                39
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "160": {
+        "current": [
+            97,
+            39
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                97,
+                39
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "161": {
+        "current": [
+            98,
+            39
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                39
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "162": {
+        "current": [
+            98,
+            40
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                40
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "163": {
+        "current": [
+            98,
+            41
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                41
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "164": {
+        "current": [
+            98,
+            42
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                42
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "165": {
+        "current": [
+            98,
+            43
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                43
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "166": {
+        "current": [
+            98,
+            44
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                44
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "167": {
+        "current": [
+            98,
+            45
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                45
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "168": {
+        "current": [
+            97,
+            45
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                45
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "169": {
+        "current": [
+            98,
+            45
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                45
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "170": {
+        "current": [
+            98,
+            46
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                46
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "171": {
+        "current": [
+            97,
+            46
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                46
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "172": {
+        "current": [
+            98,
+            46
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                46
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "173": {
+        "current": [
+            98,
+            47
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                47
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "174": {
+        "current": [
+            97,
+            47
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                47
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "175": {
+        "current": [
+            98,
+            47
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                47
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "176": {
+        "current": [
+            98,
+            48
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                48
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "177": {
+        "current": [
+            97,
+            48
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                48
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "178": {
+        "current": [
+            98,
+            48
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                48
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "179": {
+        "current": [
+            98,
+            49
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                49
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "180": {
+        "current": [
+            97,
+            49
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                49
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "181": {
+        "current": [
+            98,
+            49
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                49
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "182": {
+        "current": [
+            98,
+            50
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "183": {
+        "current": [
+            97,
+            50
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                50
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "184": {
+        "current": [
+            98,
+            50
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                50
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "185": {
+        "current": [
+            98,
+            51
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                51
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "186": {
+        "current": [
+            97,
+            51
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                51
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "187": {
+        "current": [
+            98,
+            51
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                51
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "188": {
+        "current": [
+            98,
+            52
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                52
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "189": {
+        "current": [
+            97,
+            52
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                52
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "190": {
+        "current": [
+            98,
+            52
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                52
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "191": {
+        "current": [
+            98,
+            53
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                53
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "192": {
+        "current": [
+            97,
+            53
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                53
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "193": {
+        "current": [
+            98,
+            53
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                53
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "194": {
+        "current": [
+            98,
+            54
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                54
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "195": {
+        "current": [
+            97,
+            54
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                54
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "196": {
+        "current": [
+            98,
+            54
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                54
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "197": {
+        "current": [
+            98,
+            55
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                55
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "198": {
+        "current": [
+            97,
+            55
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                55
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "199": {
+        "current": [
+            98,
+            55
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                55
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "200": {
+        "current": [
+            98,
+            56
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                56
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "201": {
+        "current": [
+            97,
+            56
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                56
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "202": {
+        "current": [
+            98,
+            56
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                56
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "203": {
+        "current": [
+            98,
+            57
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                57
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "204": {
+        "current": [
+            97,
+            57
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                57
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "205": {
+        "current": [
+            98,
+            57
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                57
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "206": {
+        "current": [
+            98,
+            58
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                58
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "207": {
+        "current": [
+            97,
+            58
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                58
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "208": {
+        "current": [
+            98,
+            58
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                58
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "209": {
+        "current": [
+            98,
+            59
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                59
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "210": {
+        "current": [
+            97,
+            59
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                59
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "211": {
+        "current": [
+            98,
+            59
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                59
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "212": {
+        "current": [
+            98,
+            60
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                60
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "213": {
+        "current": [
+            97,
+            60
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                60
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "214": {
+        "current": [
+            98,
+            60
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                60
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "215": {
+        "current": [
+            98,
+            61
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                61
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "216": {
+        "current": [
+            97,
+            61
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                61
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "217": {
+        "current": [
+            98,
+            61
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                61
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "218": {
+        "current": [
+            98,
+            62
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                62
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "219": {
+        "current": [
+            97,
+            62
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                62
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "220": {
+        "current": [
+            98,
+            62
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                62
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "221": {
+        "current": [
+            98,
+            63
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                63
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "222": {
+        "current": [
+            97,
+            63
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                63
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "223": {
+        "current": [
+            98,
+            63
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                63
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "224": {
+        "current": [
+            98,
+            64
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                64
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "225": {
+        "current": [
+            97,
+            64
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                64
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "226": {
+        "current": [
+            98,
+            64
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                64
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "227": {
+        "current": [
+            98,
+            65
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                65
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "228": {
+        "current": [
+            97,
+            65
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                65
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "229": {
+        "current": [
+            98,
+            65
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                65
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "230": {
+        "current": [
+            98,
+            66
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                66
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "231": {
+        "current": [
+            97,
+            66
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                66
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "232": {
+        "current": [
+            98,
+            66
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                66
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "233": {
+        "current": [
+            98,
+            67
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                67
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "234": {
+        "current": [
+            97,
+            67
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                67
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "235": {
+        "current": [
+            98,
+            67
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                67
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "236": {
+        "current": [
+            98,
+            68
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                68
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "237": {
+        "current": [
+            97,
+            68
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                68
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "238": {
+        "current": [
+            98,
+            68
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                68
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "239": {
+        "current": [
+            98,
+            69
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                69
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "240": {
+        "current": [
+            98,
+            70
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                70
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "241": {
+        "current": [
+            98,
+            71
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                71
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "242": {
+        "current": [
+            98,
+            72
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                72
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "243": {
+        "current": [
+            98,
+            73
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                73
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "244": {
+        "current": [
+            98,
+            74
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                74
+            ],
+            "status": "fresh",
+            "distance": 10,
+            "fear": 1.0,
+            "happiness": 17.78279410038923,
+            "safety": 16.88279410038923,
+            "spead_f": 10.152664804839503
+        },
+        "progress": "fresh"
+    },
+    "245": {
+        "current": [
+            98,
+            75
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                75
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "246": {
+        "current": [
+            98,
+            76
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                76
+            ],
+            "status": "fresh",
+            "distance": 8,
+            "fear": 1.25,
+            "happiness": 16.81792830507429,
+            "safety": 15.69292830507429,
+            "spead_f": 9.341221646165573
+        },
+        "progress": "fresh"
+    },
+    "247": {
+        "current": [
+            98,
+            77
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                77
+            ],
+            "status": "fresh",
+            "distance": 7,
+            "fear": 1.4285714285714286,
+            "happiness": 16.265765616977856,
+            "safety": 14.980051331263569,
+            "spead_f": 8.871013466310645
+        },
+        "progress": "fresh"
+    },
+    "248": {
+        "current": [
+            97,
+            77
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                77
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "249": {
+        "current": [
+            98,
+            77
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                77
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "250": {
+        "current": [
+            98,
+            78
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                78
+            ],
+            "status": "fresh",
+            "distance": 6,
+            "fear": 1.6666666666666667,
+            "happiness": 15.650845800732874,
+            "safety": 14.150845800732874,
+            "spead_f": 8.350998750905136
+        },
+        "progress": "fresh"
+    },
+    "251": {
+        "current": [
+            97,
+            78
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                78
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "252": {
+        "current": [
+            98,
+            78
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                78
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "253": {
+        "current": [
+            98,
+            79
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                79
+            ],
+            "status": "fresh",
+            "distance": 5,
+            "fear": 2.0,
+            "happiness": 14.953487812212206,
+            "safety": 13.153487812212205,
+            "spead_f": 7.777825232991329
+        },
+        "progress": "fresh"
+    },
+    "254": {
+        "current": [
+            97,
+            79
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                79
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "255": {
+        "current": [
+            98,
+            79
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                79
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "256": {
+        "current": [
+            98,
+            80
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                80
+            ],
+            "status": "fresh",
+            "distance": 4,
+            "fear": 2.5,
+            "happiness": 14.142135623730951,
+            "safety": 11.892135623730951,
+            "spead_f": 7.155363932595622
+        },
+        "progress": "fresh"
+    },
+    "257": {
+        "current": [
+            97,
+            80
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                80
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "258": {
+        "current": [
+            98,
+            80
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                80
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "259": {
+        "current": [
+            98,
+            81
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                81
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "260": {
+        "current": [
+            97,
+            81
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                81
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "261": {
+        "current": [
+            98,
+            81
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                81
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    },
+    "262": {
+        "current": [
+            98,
+            82
+        ],
+        "decision": {
+            "side": "south",
+            "cords": [
+                98,
+                82
+            ],
+            "status": "fresh",
+            "distance": 2,
+            "fear": 5.0,
+            "happiness": 11.89207115002721,
+            "safety": 7.39207115002721,
+            "spead_f": 6.056563630476368
+        },
+        "progress": "fresh"
+    },
+    "263": {
+        "current": [
+            97,
+            82
+        ],
+        "decision": {
+            "side": "west",
+            "cords": [
+                97,
+                82
+            ],
+            "status": "fresh",
+            "distance": 9,
+            "fear": 1.1111111111111112,
+            "happiness": 17.32050807568877,
+            "safety": 16.32050807568877,
+            "spead_f": 9.766714608240079
+        },
+        "progress": "fresh"
+    },
+    "264": {
+        "current": [
+            98,
+            82
+        ],
+        "decision": {
+            "side": "east",
+            "cords": [
+                98,
+                82
+            ],
+            "status": "fresh",
+            "distance": 3,
+            "fear": 3.3333333333333335,
+            "happiness": 13.160740129524925,
+            "safety": 10.160740129524925,
+            "spead_f": 6.516446684916194
+        },
+        "progress": "fresh"
+    }
+}
